@@ -1,0 +1,7 @@
+# Oracle
+.classpath
+.project
+.settings
+
+# Binaries
+bin
