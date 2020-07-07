@@ -9,3 +9,8 @@ _Each software module should have one and only one reason to change._
 ## O - Open close principle (OCP)
 
 _Open to the extension, closed to the modification._
+
+
+## L - Liskov substitution principle (LSP)
+
+_Objects of a superclass shall be replaceable with objects of its subclasses without breaking the application_
